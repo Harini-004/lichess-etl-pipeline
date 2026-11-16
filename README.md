@@ -48,4 +48,3 @@ Python, Requests, Pandas, SQLAlchemy, PyMySQL, MySQL, Windows Task Scheduler
 - Keep history by appending each day's data with a date column instead of replacing the table
 - Move the player list to a config file
 - Add retries and failure alerts, or move scheduling to Apache Airflow
-....
